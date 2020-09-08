@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922122095899",
+    "firebase_url": "https://socialcop-99a25.firebaseio.com",
+    "project_id": "socialcop-99a25",
+    "storage_bucket": "socialcop-99a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922122095899:android:7f2a314fd12abe7468d7be",
+        "android_client_info": {
+          "package_name": "co.syntags.socialcop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922122095899-ob3popj55ra29crjg5i28ojddt73akua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.syntags.socialcop",
+            "certificate_hash": "fe21bca471f99063832b60b93953959144c4ba0e"
+          }
+        },
+        {
+          "client_id": "922122095899-oohu4u6rla5knha57eg27tnm2n9pc18k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfo2qSkM1_Kl7MNqUbFVIA0_3bRq2jMpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922122095899-oohu4u6rla5knha57eg27tnm2n9pc18k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
