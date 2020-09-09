@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_32dp_black"
+        android:title="@string/home_nav"/>
+    <item
+        android:id="@+id/add_new"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_circle_32dp_black"
+        android:title="@string/add_news_nav"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_circle_32dp_black"
+        android:title="@string/profile_nav"/>
+</menu>
